@@ -6,3 +6,7 @@
 body{
     background-color: aqua;
 }
+.redess{
+    display: flex;
+    justify-content: center;
+}
